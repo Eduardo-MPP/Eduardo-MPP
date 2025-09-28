@@ -6,6 +6,8 @@ Apasionado por la **tecnología, el desarrollo de software y la innovación**.
 🎯 Objetivo: Convertirme en desarrollador Full Stack  
 ⚡ Fun fact: ¡Me encanta aprender nuevas tecnologías y compartir conocimiento!  
 
+https://1.bp.blogspot.com/-0CqUoIoYxVk/YVpcuGckkbI/AAAAAAAAI0I/cf-k2iKlpvIQJt9sgW17SkVdkSl0YfJOgCLcBGAsYHQ/s700/programacion_gamer_001.gif
+
 ---
 
 ## 🌐 Conecta conmigo  
