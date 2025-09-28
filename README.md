@@ -6,22 +6,22 @@ Apasionado por la **tecnología, el desarrollo de software y la innovación**.
 🎯 Objetivo: Convertirme en desarrollador Full Stack  
 ⚡ Fun fact: ¡Me encanta aprender nuevas tecnologías y compartir conocimiento!  
 
-https://1.bp.blogspot.com/-0CqUoIoYxVk/YVpcuGckkbI/AAAAAAAAI0I/cf-k2iKlpvIQJt9sgW17SkVdkSl0YfJOgCLcBGAsYHQ/s700/programacion_gamer_001.gif
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-0CqUoIoYxVk/YVpcuGckkbI/AAAAAAAAI0I/cf-k2iKlpvIQJt9sgW17SkVdkSl0YfJOgCLcBGAsYHQ/s700/programacion_gamer_001.gif" 
+       alt="Programación Gamer" width="500"/>
+</p>
 
 ---
 
 ## 🌐 Conecta conmigo  
 <p align="center">
-  <a href="[https://www.instagram.com/TU_USUARI](https://www.instagram.com/eduardo.paivap?igsh=MW93MDUzbnE1M2lmMw%3D%3D&utm_source=qr)O" target="_blank">
+  <a href="https://www.instagram.com/eduardo.paivap?igsh=MW93MDUzbnE1M2lmMw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="paivapingoedu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
