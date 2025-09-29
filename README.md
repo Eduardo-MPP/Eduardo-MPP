@@ -7,7 +7,7 @@ Apasionado por la **tecnología, el desarrollo de software y la innovación**.
 ⚡ Fun fact: ¡Me encanta aprender nuevas tecnologías y compartir conocimiento!  
 
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-0CqUoIoYxVk/YVpcuGckkbI/AAAAAAAAI0I/cf-k2iKlpvIQJt9sgW17SkVdkSl0YfJOgCLcBGAsYHQ/s700/programacion_gamer_001.gif" 
+  <img src="https://giphy.com/explore/programacion" 
        alt="Programación Gamer" width="500"/>
 </p>
 
